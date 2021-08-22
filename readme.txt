@@ -1,2 +1,3 @@
 Hello!
 using Git!
+now
